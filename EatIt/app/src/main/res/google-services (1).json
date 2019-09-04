@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "946291136497",
+    "firebase_url": "https://sacred-cirrus-179411.firebaseio.com",
+    "project_id": "sacred-cirrus-179411",
+    "storage_bucket": "sacred-cirrus-179411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946291136497:android:ae380313b4387f3a",
+        "android_client_info": {
+          "package_name": "com.example.kushal.eatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946291136497-qbhrojao8u5gm28e2nhci0orl8b8l296.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kushal.eatit",
+            "certificate_hash": "13b8099eaa373c6652e2d03ce26485142b60dda0"
+          }
+        },
+        {
+          "client_id": "946291136497-sajiqkcsiqdes8e0aq0hic2t5jeg9ffv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLt3Sq4Mp8hiz5f2IpBlE0Q5tP69h0hIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946291136497-sajiqkcsiqdes8e0aq0hic2t5jeg9ffv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

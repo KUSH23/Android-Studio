@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "393701507565",
+    "firebase_url": "https://cloud-computing-d819d.firebaseio.com",
+    "project_id": "cloud-computing-d819d",
+    "storage_bucket": "cloud-computing-d819d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393701507565:android:3c126abe04b74200",
+        "android_client_info": {
+          "package_name": "com.example.kushal.cloudcomputing1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393701507565-jbuuddb6f1tccg6qahqmnt199aavirvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kushal.cloudcomputing1",
+            "certificate_hash": "13b8099eaa373c6652e2d03ce26485142b60dda0"
+          }
+        },
+        {
+          "client_id": "393701507565-2r5qnhs46k8ks323lqesdkjd07g0ofr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhvj6HKGOP6TwQDu1NZjLYkD2L19kDS2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393701507565-2r5qnhs46k8ks323lqesdkjd07g0ofr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
